@@ -16,6 +16,8 @@ function logMessage(user, message) {
 }
 
 // Simulated users and messages
+
+
 const users = ['Alice', 'Bob', 'Charlie', 'David'];
 const messages = [
     'Hello everyone!',
