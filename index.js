@@ -6,6 +6,8 @@ const path = require('path');
 // Log file path
 const logFile = path.join(__dirname, 'chat_log.txt');
 
+
+
 // Function to log chat messages
 function logMessage(user, message) {
     const timestamp = new Date().toISOString();
